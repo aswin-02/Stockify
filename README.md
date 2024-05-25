@@ -35,3 +35,15 @@ API documentation for the backend is available at `/api` endpoint when the serve
 ## Frontend
 
 The frontend of the application is built with React and can be accessed at `localhost:3001` when the server is running.
+
+## Output Images
+ 
+
+![Image Description](./sample_outputs/login.png)
+ 
+![Example Image](./sample_outputs/productlist.png)
+ 
+![Example Image](./sample_outputs/invoice.png) 
+ 
+![Example Image](./sample_outputs/final.png) 
+ 
