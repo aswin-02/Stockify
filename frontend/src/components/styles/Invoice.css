@@ -1,0 +1,15 @@
+.invoice_container{
+    background-color: white;
+    margin-top: 5%;
+    border-radius: 20px;
+    padding: 5%; 
+}
+
+.table_content{
+    margin: 0% 30% 0% 25%;
+}
+
+.genInvoice_container{
+    background-color: white;
+    padding: 5%;
+}
