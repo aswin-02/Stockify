@@ -19,6 +19,16 @@ These instructions will get you a copy of the project up and running on your loc
 4. Navigate to the frontend directory and install dependencies with `npm install`
 5. Start the frontend server with `npm start`
 
+6. If you encounter any conflicts with React modules installation, try running the following command:
+    ```
+    npm install --legacy-peer-deps
+    ```
+
+7. If the issue persists, you can try forcing the installation by running:
+    ```
+    npm install --force
+    ```
+
 ## Running the tests
 
 For backend tests, navigate to the backend directory and run `npm run test` to execute the unit tests.
