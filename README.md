@@ -43,7 +43,7 @@ The frontend of the application is built with React and can be accessed at `loca
  
 ![Example Image](./sample_outputs/productlist.png)
  
-![Example Image](./sample_outputs/invoice.png){:width="400px"}
+![Example Image](./sample_outputs/invoice.png) 
  
-![Example Image](./sample_outputs/final.png){:width="400px"}
+![Example Image](./sample_outputs/final.png) 
  
